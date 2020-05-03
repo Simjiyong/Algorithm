@@ -9,3 +9,4 @@
 - [2020카카오공채] 가사 검색 : https://programmers.co.kr/learn/courses/30/lessons/60060
 - [2020카카오공채] 외벽 점검 : https://programmers.co.kr/learn/courses/30/lessons/60062
 - [2020카카오공채] 블록 이동하기 : https://programmers.co.kr/learn/courses/30/lessons/60063
+- [Summer/Winter Coding(~2018)] 방문 길이 : https://programmers.co.kr/learn/courses/30/lessons/49994
