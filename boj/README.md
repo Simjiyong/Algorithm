@@ -30,4 +30,6 @@
 
 - [17822 원판 돌리기](./boj17822.cpp) : [문제보기](https://www.acmicpc.net/problem/17822)
 
+- [17825 주사위 윷놀이](./boj17825.cpp) : [문제보기](https://www.acmicpc.net/problem/17825)
+
   
