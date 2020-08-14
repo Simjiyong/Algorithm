@@ -19,3 +19,4 @@
 - [가장 큰 수](./Programmers_42746.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42746)
 - [H-Index](./Programmers_42747.java) : [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42747)
 
+- [구명보트](./Programmers_42885.java) : [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42885)
