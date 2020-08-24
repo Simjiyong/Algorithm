@@ -28,6 +28,9 @@
 - [순위](./Programmers_49191.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/49191)
 - [보행자 천국](./Programmers_1832.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/1832)
 - [가장 긴 팰린드롬](./Programmers_12904.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12904)
+- [N으로 표현](./Programmers_42895.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42895)
+
+
 
 
 
