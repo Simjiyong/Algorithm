@@ -31,6 +31,9 @@
 - [N으로 표현](./Programmers_42895.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42895)
 - [정수 삼각형](./Programmers_43105.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/43105)
 - [리틀 프렌즈 사천성](./Programmers_1836.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/1836)
+- [불량 사용자](./Programmers_64064.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/64064)
+
+
 
 
 
