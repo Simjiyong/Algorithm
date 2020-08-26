@@ -33,6 +33,9 @@
 - [리틀 프렌즈 사천성](./Programmers_1836.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/1836)
 - [불량 사용자](./Programmers_64064.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/64064)
 - [야근 지수](./Programmers_12927.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12927)
+- [줄 서는 방법](./Programmers_12936.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12936)
+
+
 
 
 
