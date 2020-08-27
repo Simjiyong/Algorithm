@@ -36,6 +36,9 @@
 - [줄 서는 방법](./Programmers_12936.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12936)
 - [하노이의 탑](./Programmers_12946.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12946)
 - [징검다리 건너기](./Programmers_64062.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/64062)
+- [N-Queen](./Programmers_12952.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12952)
+
+
 
 
 
