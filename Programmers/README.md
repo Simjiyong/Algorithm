@@ -40,6 +40,7 @@
 - [보석 쇼핑](./Programmers_67258.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/67258)
 - [배달](./Programmers_12978.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12978)
 - [경주로 건설](./Programmers_67259.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/67259)
+- [기지국 설치](./Programmers_12979.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12979)
 
 
 
