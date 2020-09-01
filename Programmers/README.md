@@ -42,6 +42,9 @@
 - [경주로 건설](./Programmers_67259.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/67259)
 - [기지국 설치](./Programmers_12979.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12979)
 - [셔틀버스](./Programmers_17678.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/17678)
+- [지형 이동](./Programmers_62050.java) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/62050)
+
+
 
 
 
