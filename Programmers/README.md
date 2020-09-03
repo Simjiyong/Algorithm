@@ -17,6 +17,7 @@
 - [4단 고음](./programmers_1831.cpp) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/1831)
 - [징검다리](./programmers_43236.cpp) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/43236)
 - [캠핑](./programmers_1833.cpp) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/1833)
+- [몸짱 트레이너 라이언의 고민](./programmers_1838.cpp) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/1838)
 
 
 
