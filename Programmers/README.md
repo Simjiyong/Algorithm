@@ -20,6 +20,7 @@
 - [몸짱 트레이너 라이언의 고민](./programmers_1838.cpp) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/1838)
 - [사칙연산](./programmers_1843.cpp) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/1843)
 - [게임 맵 최단거리](./programmers_1844.cpp) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/1844)
+- [호텔 방 배정](./programmers_64063.cpp) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/64063)
 
 ### java
 
