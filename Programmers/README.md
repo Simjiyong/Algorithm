@@ -21,6 +21,7 @@
 - [사칙연산](./programmers_1843.cpp) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/1843)
 - [게임 맵 최단거리](./programmers_1844.cpp) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/1844)
 - [호텔 방 배정](./programmers_64063.cpp) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/64063)
+- [올바른 괄호의 갯수](./programmers_12929.cpp) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12929)
 
 ### java
 
