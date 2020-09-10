@@ -27,6 +27,7 @@
 - [동굴 탐험](./programmers_67260.cpp) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/67260)
 - [단어 퍼즐](./programmers_12983.cpp) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12983)
 - [뉴스 클러스터링](./programmers_17677.cpp) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/17677)
+- [프렌즈4블록](./programmers_17679) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/17679)
 
 
 
