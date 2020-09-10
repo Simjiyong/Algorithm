@@ -23,6 +23,10 @@
 - [호텔 방 배정](./programmers_64063.cpp) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/64063)
 - [올바른 괄호의 갯수](./programmers_12929.cpp) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12929)
 - [스티커 모으기(2)](./programmers_12971.cpp) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12971)
+- [추석 트래픽](./programmers_17676.cpp) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/17676)
+- [동굴 탐험](./programmers_67260.cpp) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/67260)
+
+
 
 ### java
 
