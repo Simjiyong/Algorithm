@@ -29,6 +29,8 @@
 - [뉴스 클러스터링](./programmers_17677.cpp) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/17677)
 - [프렌즈4블록](./programmers_17679) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/17679)
 - [캐시](./programmers_17680) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/17680)
+- [비밀지도](./programmers_17681.cpp) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/17681)
+- [다트 게임](./programmers_17682.cpp) : [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/17682)
 
 
 
