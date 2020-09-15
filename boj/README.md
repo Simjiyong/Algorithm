@@ -21,3 +21,10 @@
 
 
 
+## java
+
+- [에디터](./Boj1406/Main.java) : [문제 보기](https://www.acmicpc.net/problem/1406)
+- [괄호](./Boj9012/Main.java) : [문제 보기](https://www.acmicpc.net/problem/9012)
+- [스택 수열](./Boj1874/Main.java) : [문제 보기](https://www.acmicpc.net/problem/1874)
+- [단어 뒤집기](./Boj9093/Main.java) : [문제 보기](https://www.acmicpc.net/problem/9093)
+
