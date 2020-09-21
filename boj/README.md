@@ -34,3 +34,5 @@
 - [오등큰수](./Boj17299/Main.java) : [문제 보기](https://www.acmicpc.net/problem/17299)
 - [후위 표기식2](./Boj1935/Main.java) : [문제 보기](https://www.acmicpc.net/problem/1935)
 - [후위 표기식](./Boj1918/Main.java) : [문제 보기](https://www.acmicpc.net/problem/1918)
+- [골드바흐의 추측](./Boj6588/Main.java) : [문제 보기](https://www.acmicpc.net/problem/6588)
+
