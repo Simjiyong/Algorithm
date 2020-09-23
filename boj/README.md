@@ -37,3 +37,4 @@
 - [골드바흐의 추측](./Boj6588/Main.java) : [문제 보기](https://www.acmicpc.net/problem/6588)
 - [1로 만들기](./Boj1463/Main.java) : [문제 보기](https://www.acmicpc.net/problem/1463)
 - [2xn 타일링 2](./Boj11727/Main.java) : [문제 보기](https://www.acmicpc.net/problem/11727)
+- [1, 2, 3 더하기 5](./Boj15990/Main.java) : [문제 보기](https://www.acmicpc.net/problem/15990)
