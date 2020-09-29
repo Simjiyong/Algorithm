@@ -39,3 +39,4 @@
 - [2xn 타일링 2](./Boj11727/Main.java) : [문제 보기](https://www.acmicpc.net/problem/11727)
 - [1, 2, 3 더하기 5](./Boj15990/Main.java) : [문제 보기](https://www.acmicpc.net/problem/15990)
 - [쉬운 계단 수](./Boj10844/Main.java) : [문제 보기](https://www.acmicpc.net/problem/10844)
+- [가장 긴 증가하는 부분 수열](./Boj11053/Main.java) : [문제 보기](https://www.acmicpc.net/problem/11053)
