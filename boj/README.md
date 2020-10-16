@@ -19,6 +19,7 @@
 - [17825 주사위 윷놀이](./boj17825.cpp) : [문제보기](https://www.acmicpc.net/problem/17825)
 - [1072 게임](./boj1072.cpp) : [문제 보기](https://www.acmicpc.net/problem/1072)
 - [19236 청소년 상어](./boj19236.cpp) : [문제 보기](https://www.acmicpc.net/problem/19236)
+- [19235 모노미노도미노](./boj19235.cpp) : [문제 보기](https://www.acmicpc.net/problem/19235)
 
 
 
